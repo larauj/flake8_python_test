@@ -10,6 +10,7 @@ fila_teste.atualizafila()
 print(fila_teste.chamarcliente(5))
 print(fila_teste.chamarcliente(13))
 
+
 # from fila_prioritaria import FilaPrioritaria
 #
 # fila_teste_2 = FilaPrioritaria()
