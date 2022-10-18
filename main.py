@@ -8,7 +8,7 @@ fila_teste.atualizafila()
 fila_teste.atualizafila()
 #
 print(fila_teste.chamarcliente(5))
-print(fila_teste.chamarcliente(11))
+print(fila_teste.chamarcliente(12))
 
 # from fila_prioritaria import FilaPrioritaria
 #
